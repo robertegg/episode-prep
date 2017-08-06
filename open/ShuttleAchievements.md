@@ -140,5 +140,6 @@ Achievements
   
 * Conclusion 
   - Your view - was it worth it?
+  - How might a possible Future have looked if the Columbia Disaster had not happend? 
   - Currently, people are mostly skepical (I am not!) 
     
