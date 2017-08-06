@@ -8,6 +8,7 @@ Rohstoffanlieferung im Hafen
 ------------------------
 * Welche Rohstoffe
 * Woher
+* Unterschiede Einbringung Frisch- vs. Recycling-Material
 
 
 Kokerei
@@ -34,6 +35,7 @@ https://de.wikipedia.org/wiki/Hochofen
 
 * Aka Eisenwerk, Hüttenwerk
 * Macht aus Eisenerz Roheisen
+* Unterschied LD zu herkömmlichen Verfahren (https://de.wikipedia.org/wiki/Linz-Donawitz-Verfahren)
 
 
 Stahlwerk
