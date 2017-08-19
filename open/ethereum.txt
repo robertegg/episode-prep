@@ -25,7 +25,7 @@
   - ENS - Ethereum Name System: auch für apping Domain Name -> SSL key, keine Certificate Authorities fuer SSL-Keys
   - SWARM
 
- * Dezentrale Orakel, Orakelproblem allgemein, shelling-coin, P+eps-Angriff, "Erpressungscontracts" (bitcoin-mining-pools auf Ethereum bezahlen)
+ * Dezentrale Orakel, Orakelproblem allgemein, shelling-coin, P+eps-Angriff, "Erpressungscontracts" (bitcoin-mining-pools auf Ethereum bezahlen); Kann die Cheychain ein Instrument sein um aufzuzeigen wer mit wem Kontakte unterhält (Stichwort Contact Mapping / Beziehungsnetzwerke); Es können sofort alle meine GeschäftspartnerInnen ausfingig gemacht machen werden?!
 
  * EVM
   - Warum neue virtual machine?
