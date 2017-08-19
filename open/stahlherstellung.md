@@ -33,6 +33,7 @@ Hochofen
 https://de.wikipedia.org/wiki/Hochofen
 
 * Aka Eisenwerk, Hüttenwerk
+* Unterschied LD-Verfahren zu herkömmlichen (https://de.wikipedia.org/wiki/Linz-Donawitz-Verfahren)
 * Macht aus Eisenerz Roheisen
 
 
